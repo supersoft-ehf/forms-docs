@@ -5,7 +5,8 @@
 
 ## Form (Kosningar/Kannanir)
 
-* [Stofna nýja kosningu / könnun](form-kosningar-kannanir/stofna-nyja-kosningu-konnun.md)
+* [Sérsnið](form-kosningar-kannanir/sersnid.md)
+* [Sniðmát](form-kosningar-kannanir/snidmat.md)
 
 ## Almennar stillingar
 
