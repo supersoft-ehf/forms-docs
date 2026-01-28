@@ -3,10 +3,11 @@
 * [Superforms](README.md)
 * [Innskráning](innskraning.md)
 
-## Form (Kosningar/Kannanir)
+## Stofna
 
-* [Sérsnið](form-kosningar-kannanir/sersnid.md)
-* [Sniðmát](form-kosningar-kannanir/snidmat.md)
+* [Sérsnið](stofna/sersnid.md)
+* [Sniðmát](stofna/snidmat.md)
+* [Bæta við notendum](stofna/baeta-vid-notendum.md)
 
 ## Almennar stillingar
 
