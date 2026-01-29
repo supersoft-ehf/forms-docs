@@ -1,4 +1,4 @@
-# Bæta við notendum
+# Bæta við notendum á kjörskrá
 
 Annaðhvort er þú að bæta við kjósendum í kjörskrá með kennitölu eða nota bæta við netfangi á netfangalista. Ekki er hægt að nota samhliða báðar leiðir í sömu kosningu eða könnun.&#x20;
 
@@ -29,20 +29,6 @@ Sjá mynd:
 Auðvelt að fjarlæga einstaka notendur undir **Aðgerðir.**&#x20;
 
 Einnig hægt að velja marga og smella á **Fjarlægja notendur.**
-
-####
-
-#### Netfangalisti
-
-Þegar notendur á netfangalista taka þátt í kosningu eða könnun fær viðkomandi tölvupóst til að taka þátt.&#x20;
-
-Það er einfalt að stofna nýjann netfangalista.&#x20;
-
-Sjá myndband:
-
-{% embed url="https://share.cleanshot.com/9HHr4Phd" %}
-
-
 
 ####
 

@@ -2,7 +2,9 @@
 
 Það er hægt að taka út mörgum notendum (bulk) í einu af kjörskrá í einni færslu.&#x20;
 
-Fyrst er farið í **Stillingar**" undir þínu nafni efst í hægra horninu og svo valið **Kjörskrá**. &#x20;
+
+
+Fyrst er farið í **Stillingar** undir þínu nafni efst í hægra horninu og svo valið **Kjörskrá**. &#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.22.54.png" alt=""><figcaption></figcaption></figure>
 

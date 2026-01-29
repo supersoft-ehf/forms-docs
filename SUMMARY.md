@@ -7,22 +7,23 @@
 
 * [Sérsnið](stofna/sersnid.md)
 * [Sniðmát](stofna/snidmat.md)
-* [Bæta við notendum](stofna/baeta-vid-notendum.md)
-* [Eyða mörgum notendum - bulk](stofna/eyda-morgum-notendum-bulk.md)
+* [Ný kosning eða könnun](stofna/ny-kosning-eda-konnun.md)
+* [Senda út kosningu eða könnun](stofna/senda-ut-kosningu-eda-konnun.md)
+
+## Kjörskrá
+
+* [Stofna nýja kjörskrá](kjorskra/stofna-nyja-kjorskra.md)
+* [Bæta við notendum á kjörskrá](kjorskra/baeta-vid-notendum-a-kjorskra.md)
+* [Eyða kjörskrá](kjorskra/eyda-kjorskra.md)
+* [Eyða mörgum notendum - bulk](kjorskra/eyda-morgum-notendum-bulk.md)
+
+## Netfangalisti
+
+* [Stofna nýjann netfangalista](netfangalisti/stofna-nyjann-netfangalista.md)
+* [Bæta við notendum á netfangalista](netfangalisti/baeta-vid-notendum-a-netfangalista.md)
 
 ## Almennar stillingar
 
-* [Notendastillingar](almennar-stillingar/notendastillingar.md)
-* [Liðsmeðlimir](almennar-stillingar/lidsmedlimir.md)
-* [Aðgerðasaga](almennar-stillingar/adgerdasaga.md)
-
-## Kjörskrár
-
-* [Bæta við notendum](kjorskrar/baeta-vid-notendum.md)
-* [Afrita](kjorskrar/afrita.md)
-* [Taka út einn](kjorskrar/taka-ut-einn.md)
-
-***
-
-* [Stofna nýja kjörskrá](stofna-nyja-kjorskra.md)
-* [Eyða kjörskrá](eyda-kjorskra.md)
+* [Uppfæra netfang og símanúmer](almennar-stillingar/uppfaera-netfang-og-simanumer.md)
+* [Yfirgefa lið](almennar-stillingar/yfirgefa-lid.md)
+* [Uppfæra þema](almennar-stillingar/uppfaera-thema.md)
