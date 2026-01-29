@@ -1,14 +1,20 @@
-# Taka út bulk
+# Eyða mörgum notendum - bulk
 
-Það er hægt að taka út "bulk" eða mörgum notendum í einu af kjörskrá í einni færslu.&#x20;
+Það er hægt að taka út mörgum notendum (bulk) í einu af kjörskrá í einni færslu.&#x20;
 
-Fyrst er farið í "stillingar" undir þínu nafni efst í hægra horninu og svo valið "Kjörskrá". &#x20;
+Fyrst er farið í **Stillingar**" undir þínu nafni efst í hægra horninu og svo valið **Kjörskrá**. &#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.22.54.png" alt=""><figcaption></figcaption></figure>
 
-Þú smellir á pennann, undir Aðgerðir, á viðkomandi kjörskrá sem þú vilt taka notendur út.&#x20;
+Þú smellir á pennann, undir **Aðgerðir**, á viðkomandi kjörskrá sem þú vilt taka notendur út.&#x20;
 
-Þá færð þú svona valmynd og smellir á "Fjarlægja notendur"
+Getur þar valið einstaka notendur til að fjarlægja undir **Aðgerðir**
+
+
+
+Ef þú vilt eyða út mörgum notendum smellir þú á **Fjarlægja notendur.**
+
+Sjá mynd:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.38.14.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,6 +30,12 @@ Svo smellir þú á "Fjarlægja notendur" .&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.43.52.png" alt=""><figcaption></figcaption></figure>
 
+
+
 Hér er hægt að afrita kennitölur á þeim sem þú vilt eyða út, sem þú hefur hakað við.&#x20;
+
+Sjá mynd:
+
+
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.52.09.png" alt=""><figcaption></figcaption></figure>

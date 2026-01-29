@@ -8,6 +8,7 @@
 * [Sérsnið](stofna/sersnid.md)
 * [Sniðmát](stofna/snidmat.md)
 * [Bæta við notendum](stofna/baeta-vid-notendum.md)
+* [Eyða mörgum notendum - bulk](stofna/eyda-morgum-notendum-bulk.md)
 
 ## Almennar stillingar
 
@@ -18,7 +19,6 @@
 ## Kjörskrár
 
 * [Bæta við notendum](kjorskrar/baeta-vid-notendum.md)
-* [Taka út bulk](kjorskrar/taka-ut-bulk.md)
 * [Afrita](kjorskrar/afrita.md)
 * [Taka út einn](kjorskrar/taka-ut-einn.md)
 
