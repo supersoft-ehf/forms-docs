@@ -8,9 +8,11 @@ coverY: 0
 
 
 
-Með Superforms getur þú auðveldlega stofnað nýja kosningu eða könnun á sent á þáttakendur.&#x20;
+Með Superforms getur þú auðveldlega stofnað nýja kosningu eða könnun á sent á þáttakendur. Í grunninn eru kosningar og kannanir með sömu uppsetningu í ritli til að sýsla með spurningar og svör.&#x20;
 
-´
+Hægt er að velja um ýmsar tegundir af spurningum t.d. fellilista, gátreiti eða já/nei spurningu.&#x20;
+
+Þú getur annað hvort sett upp kjörskrá eða netfangalista, en þó ekki hægt að blanda saman í sömu kosningu eða könnun. Kjörskrá er tengd við kennitölur þannig að kjósendur þurfa að skrá sig inn með rafrænni auðkenningu til að taka þá..
 
 ### Jump right in
 
