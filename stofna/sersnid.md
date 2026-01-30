@@ -16,7 +16,17 @@ Sjá myndband:
 
 {% embed url="https://share.cleanshot.com/Sx3Q7k1K" %}
 
-Mundu að "Vista" sérstaklega hvern stillingarkassa.&#x20;
+
+
+#### Mikilvægt
+
+Mundu að **Vista** sérstaklega hvern stillingarkassa.&#x20;
+
+
+
+**ATHUGIÐ**
+
+**Eftir að form er sett á dagskrá eru breytingar takmarkaðar.**&#x20;
 
 
 

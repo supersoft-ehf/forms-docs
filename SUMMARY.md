@@ -7,8 +7,9 @@
 
 * [Sérsnið](stofna/sersnid.md)
 * [Sniðmát](stofna/snidmat.md)
-* [Ný kosning eða könnun](stofna/ny-kosning-eda-konnun.md)
+* [Stofna nýtt form](stofna/stofna-nytt-form.md)
 * [Senda út kosningu eða könnun](stofna/senda-ut-kosningu-eda-konnun.md)
+* [Skoða niðurstöður](stofna/skoda-nidurstodur.md)
 
 ## Kjörskrá
 

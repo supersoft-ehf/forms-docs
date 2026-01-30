@@ -24,14 +24,20 @@ Sjá myndband:&#x20;
 
 
 
-Nota sniðmát.&#x20;
+#### Nota sniðmát.&#x20;
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/fSJQt9mm" %}
+{% embed url="https://share.cleanshot.com/jHPl6Rlj" %}
 
 
 
 Mikilvægt að fara yfir allar stillingar og dagsetningu.&#x20;
 
-Mundu að "Vista" sérstaklega hvern stillingarkassa.&#x20;
+**ATHUGIÐ**
+
+**Eftir að form er sett á dagskrá eru breytingar takmarkaðar.**&#x20;
+
+#### Mikilvægt
+
+Mundu að **Vista** sérstaklega hvern stillingarkassa.&#x20;
